@@ -1,4 +1,5 @@
 ![](Shourya-Ranjan/signature%20(2).png)
+![](Shourya-Ranjan/sam.jpg)
 # Hi folks, I'm Shourya Ranjan! 👋
 
 
