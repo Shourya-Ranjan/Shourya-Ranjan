@@ -1,5 +1,5 @@
-![Logo](Shourya-Ranjan/images/signature%20(2).png)
-![Signature](Shourya-Ranjan/images/sam.jpg)
+![banner](https://www.canva.com/design/DAFRYfJ0c3g/view)
+
 # Hi folks, I'm Shourya Ranjan! 👋
 
 
@@ -22,8 +22,10 @@ I'm a final year undergrad currently pursuing my Bachelor's degree in Sapthagiri
 - 🌱 I’m currently learning Flutter as part of my app development skill buildup.
 - 💞️ I’m looking to collaborate with someone who can strive for solving the problems as a companion.
 - 📫 You can reach me at Instagram using the link below https://www.instagram.com/ig.shourya_/ 
+
 ## 🛠 Skills
 HTML, CSS, JavaScript, PHP, MySQL, Java, C, Python, Power BI, Flutter, App Development, Web Development, Firebase, GIT  
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
 ## Roadmap
