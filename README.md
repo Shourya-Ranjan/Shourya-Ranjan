@@ -77,5 +77,5 @@ I'm a final year undergrad currently pursuing my Bachelor's degree in Sapthagiri
 
 ## Support
 
-For any query, email shouryaranjan54@gmail.com or join me on telegram.
+For any query, email shouryaranjan54@gmail.com or join me on telegram at https://tinyurl.com/shourya54.
 
